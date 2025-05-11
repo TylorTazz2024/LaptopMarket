@@ -2,7 +2,7 @@ package za.ac.cput.domain;
 
 /* Laptop.java
 Laptop POJO Class
-Author: 221248986
+Author: Nontando Zondi 221248986
 Date: 11 May 2025
 */
 
