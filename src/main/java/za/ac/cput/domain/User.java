@@ -1,4 +1,11 @@
 package za.ac.cput.domain;
+/* Employee.java
+
+     Admin POJO class
+
+     Author: T.Malifethe (222602511)
+
+     Date: 11 May 2025 */
 
 public class User {
     private int userID;
