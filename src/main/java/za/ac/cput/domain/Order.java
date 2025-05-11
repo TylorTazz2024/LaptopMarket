@@ -10,7 +10,7 @@ public class Order {
     private final String status;
     private final double totalAmount;
 
-    private Order(OrderBuilder builder) {
+     private Order(OrderBuilder builder) {
         this.orderID = builder.orderID;
         this.userID = builder.userID;
         this.orderDate = new Date(builder.orderDate.getTime());
